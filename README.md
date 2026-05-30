@@ -1,1 +1,1 @@
-GIT branching strategy
+# GIT branching strategy
